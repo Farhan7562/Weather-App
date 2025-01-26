@@ -1,0 +1,2 @@
+# weatherApp
+A simple and responsive weather application that provides real-time weather updates based on the user's location or any city input. The app fetches data from a weather API and displays current weather information.
