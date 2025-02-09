@@ -1,10 +1,3 @@
 # weatherApp
 
-– Engineered a dynamic and visually engaging weather application, delivering real-time forecasts with
-seamless responsiveness across all devices.
-
-– Developed the application using HTML, CSS, and JavaScript, improving accessibility by 40%.
-
-– Integrated a third-party API to fetch and display real-time weather updates efficiently.
-
-– Optimized UI/UX for an intuitive and immersive user experience.
+Developed a responsive weather app using HTML, CSS, and JavaScript, enhancing accessibility by 40%. Integrated a third-party API for real-time forecasts and optimized UI/UX for an intuitive experience, ensuring seamless performance across all devices.
